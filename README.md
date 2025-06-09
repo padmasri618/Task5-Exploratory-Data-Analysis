@@ -24,8 +24,11 @@ To explore and analyze the Titanic dataset using Python libraries to uncover tre
 #  Code
 ## 1. Import required libraries
 -- import pandas as pd
+
 -- import numpy as np
+
 -- import seaborn as sns
+
 -- import matplotlib.pyplot as plt
 ## 2. load the dataset
 -- df = pd.read_csv("C:/Users/padma/OneDrive/Documents/anaconda/train.csv")
